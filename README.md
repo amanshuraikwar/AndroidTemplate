@@ -1,6 +1,6 @@
 # AndroidTemplate
 
-An Android app template I use to start my android app pojects.
+An Android app template I use to start my android app projects.
 
 ## Thrid Party Dependencies
 
